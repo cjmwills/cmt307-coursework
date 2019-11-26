@@ -1,4 +1,4 @@
-# cmt307-coursework
+# Machine Learning Coursework
 
 This coursework consists of a portfolio divided into two parts with equal weight:
 
