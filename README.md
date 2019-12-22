@@ -12,3 +12,10 @@ zip file with the code, and a written summary (up to 1200 words) describing
 solutions, design choices and a reflection on the main challenges faced during
 development.
 
+## Using Jupyter Notebook on University Laptop
+In the terminal run;
+1. `pipenv shell`
+2. `pipenv install jupyter`
+3. `pipenv run jupyter notebook`
+
+Install modules using `pipenv install module_name`
